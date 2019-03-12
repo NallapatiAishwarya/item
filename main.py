@@ -288,7 +288,7 @@ def addCollegeDetails(ishname):
                                ishname=ishs.name, ish_zab=ish_zab)
 
 ######
-# Edit Byke details
+# Edit College details
 @app.route('/University/<int:ishid>/<string:ishename>/edit',
            methods=['GET', 'POST'])
 def editColleges(ishid, ishename):
