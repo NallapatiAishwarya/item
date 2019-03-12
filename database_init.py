@@ -114,4 +114,4 @@ College6 = CollegeName(name="Alpha Arts and Science College, Chennai",
 session.add(College6)
 session.commit()
 
-print("Your universities database has been inserted!")
+print("Your universities database has been inserted successfully!")
