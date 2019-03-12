@@ -62,7 +62,7 @@ To get the Google login working there are a few additional steps:
 11. On the Dev Console Select Download JSON
 12. Rename JSON file to client_secrets.json
 13. Place JSON file in book-store directory that you cloned from here
-14. Run application using `python /byke_store/main.py`
+14. Run application using `python /item/main.py`
 
 ## JSON Endpoints
 The following are open to the public:
