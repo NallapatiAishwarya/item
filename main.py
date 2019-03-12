@@ -171,7 +171,7 @@ def home():
     return render_template('myhome.html', ish_zab=ish_zab)
 
 #####
-# Byke Category for admins
+# University Category for admins
 @app.route('/University')
 def University():
     try:
