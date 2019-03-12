@@ -378,7 +378,7 @@ def logout():
         response.headers['Content-Type'] = 'application/json'
         return response
 
-#####
+####
 # Json
 @app.route('/University/JSON')
 def allUniversitiesJSON():
